@@ -1,1 +1,1 @@
-# azure-ai-engineer-associate
+# azure-ai
